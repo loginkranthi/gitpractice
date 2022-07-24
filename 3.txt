@@ -1,1 +1,2 @@
 Stashed changes not be there
+This is deepthi with conflict
